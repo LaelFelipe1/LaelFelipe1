@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Welcome to my profile 😁
 
  <div>
    <a href="https://github.com/LaelFelipe1">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Segue as minhas redes sociais abaixo!
+### More infos about me:
  
 <div> 
   <a href="https://www.instagram.com/lael.alvesc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
